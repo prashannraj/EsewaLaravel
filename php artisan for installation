@@ -1,0 +1,9 @@
+I am going to integrate Esewa epay-v2 in Laravel application using livewire v3 .
+
+Lets start our project by creating new project and installing livewire
+
+
+laravel new esewatest
+
+composer require livewire/livewire
+
